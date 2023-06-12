@@ -1,6 +1,6 @@
 public class Stroberi extends Tanaman implements Perawatan {
 
-    public Stroberi(/* Isi parameter */) {
+    public Stroberi() {
         // Tulsikan kode kalian di sini
     }
 

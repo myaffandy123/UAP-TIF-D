@@ -1,6 +1,6 @@
 public class Persik extends Tanaman implements Perawatan {
 
-    public Persik(/* Isi parameter */) {
+    public Persik() {
         // Tulsikan kode kalian di sini
     }
 

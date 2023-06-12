@@ -1,6 +1,6 @@
 public class Tomat extends Tanaman implements Perawatan {
 
-    public Tomat(/* Isi parameter */) {
+    public Tomat() {
         // Tulsikan kode kalian di sini
     }
 
